@@ -1,6 +1,6 @@
 site_name: This_is_the_name_of_my_site_Left_Corner # Change this to your site name
 site_description: Description_Apple_Banana_Chocolate
-site_url: https://change_me.io/ # Change this to your site URL
+site_url: https://corpooctopus.github.io/Mkdocs-GHPages--test-Public-/ # Change this to your site URL
 
 theme:
     name: 'material'
