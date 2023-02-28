@@ -6,11 +6,12 @@ permalink: /
 ---
 
 ---
-- [[Prerequisites]]
-- [[HTML Foundations]]
-- [[CSS Foundations]]
 
+- [Prerequisites](/Prerequisites/)
+- [HTML Foundations](/HTML%20Foundations/)
+- [CSS Foundations](/CSS%20Foundations/)
 
+taco
 
 
 
